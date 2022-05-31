@@ -1,6 +1,6 @@
 import React from 'react';
 import { authReducer } from './AuthReducer';
-import {fetchUser} from '../functions/fetchUser';
+
 
 const AuthStateContext = React.createContext();
 const AuthDispatchContext = React.createContext();
