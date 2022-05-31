@@ -1,8 +1,8 @@
 # AuthScreenAmplify
 Auth Screen Example developed on react-native. 
 Amplify should be installed separately to be used without errors. 
-You can follow instructions on https://docs.amplify.aws/cli/start/install/
-
+You can follow instructions on https://docs.amplify.aws/cli/start/install/ <br /><br />
+Here you have a short instruction for Amplify to be followed on terminal.<br />
 npm install -g @aws-amplify/cli <br />
 amplify configure <br />
 amplify init <br />
