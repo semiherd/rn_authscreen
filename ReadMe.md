@@ -6,7 +6,7 @@ You can follow instructions on https://docs.amplify.aws/cli/start/install/
 npm install -g @aws-amplify/cli <br />
 amplify configure <br />
 amplify init <br />
-amplify add auth #select manual configuration  <br />
+amplify add auth #select manual configuration  <br /><br />
 Do you want to use the default authentication and security configuration? <br />
   Default configuration <br />
   Default configuration with Social Provider (Federation) <br />
